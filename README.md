@@ -61,19 +61,23 @@ dialectics/
    mkdir -p ~/dialectics/my-topic && cd ~/dialectics/my-topic
    ```
 
-2. Start your coding agent in that directory. In Claude Code:
+2. Load the skill and give it your question:
+   ```bash
+   mkdir .claude/skills/hegelian-dialectic-skill
+   wget https://raw.githubusercontent.com/KyleAMathews/hegelian-dialectic-skill/refs/heads/main/SKILL.md
+   mv SKILL.md .claude/skills/hegelian-dialectic-skill
+   ```
+
+2. Start your coding agent in that directory:
    ```bash
    claude
-   ```
 
-3. Load the skill and give it your question:
-   ```
-   /install-skill /path/to/SKILL.md
-
-   I want to explore: [your topic or tension here]
+   /dialectic I want to explore: [your topic or tension here]
    ```
 
    The skill will walk you through the elenctic interview, spawn the Monks, and produce the full dialectical trace — all saved as files in the current directory.
+
+   You can also just run /dialectic to get an introductory help message that walks you through the process.
 
 ### Tips
 
