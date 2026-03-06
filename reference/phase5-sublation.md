@@ -2,6 +2,23 @@
 
 Now generate the synthesis. Do additional research if needed — search for emerging approaches that might embody the synthesis, historical parallels where similar contradictions were resolved, or protocol/standard layers that dissolved analogous tensions.
 
+## Provocation Before Synthesis (Round 2+ Only)
+
+**Skip this in Round 1.** In Round 2+, before writing the synthesis, apply one De Bono provocation to disrupt premature pattern-matching.
+
+Pick one provocation and state it:
+- "PO, the contradiction doesn't exist."
+- "PO, both monks are arguing the same position."
+- "PO, the synthesis was obvious from the start and we wasted our time."
+- "PO, the user's real problem has nothing to do with either monk's framing."
+
+Then apply **movement techniques** to extract value from the provocation (the provocation is not the idea — it's a stepping stone):
+- **Extract a principle:** What principle is embedded in this impossible statement?
+- **Focus on the difference:** What's different about a world where this provocation is true?
+- **Special circumstances:** Under what circumstances could this actually be right?
+
+One provocation, three movement extractions. This takes 1-2 paragraphs and catches cases where the orchestrator is already converging on a pre-formed compromise before the formal synthesis begins.
+
 The synthesis must:
 
 1. **CANCEL** both original positions as complete truths (neither "A is right" nor "B is right" survives intact)

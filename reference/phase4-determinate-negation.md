@@ -57,7 +57,47 @@ The first two steps reorganize existing material. The third is where creativity 
 
 **Example from test run (React/Vue dialectic):** Shattering both positions revealed that "legacy burden" (from the corporate lab essay) and "self-referential complexity" (from the auteur essay) were describing the *same phenomenon* from different angles. Liberated from their positions, they connected to form a new concept: "innovation character is predicted by legacy burden, not funding source." This wasn't available from within either position.
 
-## 4.6 Sublation Criteria
+## 4.6 Lateral Creativity Interventions (Round 2+ Only)
+
+**Skip this section in Round 1.** Round 1 is calibration — the conceptual space isn't well-mapped yet and lateral injection is noise. In Round 2+, where the synthesis is being pushed past its own limits, is where the vocabulary runs out and these interventions have the highest marginal value.
+
+The dialectic processes everything through propositional structural analysis. That channel is powerful but it can only recombine existing conceptual vocabulary — it cannot generate *new* vocabulary. The following interventions force the mind to process the problem through channels it wasn't using.
+
+### 4.6a Compressed Conflict Generation
+
+Express each core tension from the decomposition as a **two-word oxymoron** — a "compressed conflict" (from Gordon's Synectics). Examples: "productive dissipation," "autonomous dependence," "structured spontaneity," "durable ephemerality."
+
+Generate 5-7 compressed conflicts. Select the 2-3 most resonant ones to guide synthesis direction.
+
+**Why this works:** The oxymoron format holds the contradiction as a *unit* rather than resolving it. It encodes the tension in a form that resists premature resolution — exactly what you want before synthesis. In testing, compressed conflicts pointed toward synthesis mechanisms faster and more precisely than the full Boydian decomposition alone.
+
+### 4.6b Random Domain Injection
+
+Inject a domain completely unrelated to the dialectic and **force yourself to find structural isomorphisms** between the atomic claims from 4.5 and that domain.
+
+**Use Wikipedia for genuine randomness.** The orchestrator picking a "random" domain actually filters through the orchestrator's own conceptual habits — you'll gravitate toward domains you already know. Wikipedia's randomness is genuinely external. Fetch 15-20 random articles via the API:
+
+```bash
+curl -s "https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=50&format=json"
+```
+
+Scan the titles and fetch short extracts for the ones that are *maximally distant from the current dialectic's domain* and have enough conceptual density to work with (not stubs). The goal is domain distance — if the dialectic is about software architecture, a biography of a 19th-century nurse or a sports scoring system might be perfect. If the dialectic is about career decisions, condensed matter physics or liturgical history might work. Use your judgment about what's far enough away to force genuine surprise. Typically 5-8 out of 50 will have enough substance — pick the 2-3 richest to force isomorphisms on.
+
+For each promising article, spend 2-3 paragraphs forcing connections to the atomic claims. Most will be noise — that's fine. You're looking for the one connection that illuminates something the within-domain recombination missed.
+
+**In testing (Round 21 of a long-running dialectic):** 5 out of 30 random Wikipedia articles produced useful isomorphisms. Spin density waves yielded a "commensurability test" (structural criterion for a question the synthesis had left vague). The Ely Hospital inquiry revealed that infrastructure can actively *suppress* what it can't express, not just passively miss it. A carnivorous plant's bladder trap mechanism reframed concept-generation from "construction" to "trigger-firing," resolving a core paradox. Geological stratigraphy suggested that infrastructure should carry its formation history as metadata. The hit rate is low but the hits are high-leverage — exactly the kind of material that within-domain analysis cannot produce.
+
+**Why this works:** This is Boyd's cross-domain step made mandatory instead of optional. The Boydian decomposition says "look for cross-domain connections" but doesn't force them, so the orchestrator defaults to within-domain recombination. Domain distance correlates with novelty of output (Synectics research). The constraint is what creates the exploration.
+
+### 4.6c Non-Propositional Pause
+
+Before proceeding to synthesis, pause the analytical engine. Write **three metaphors** for the contradiction you just analyzed. Not explanatory metaphors — evocative ones. What does this tension *feel like*? What does it *look like*? What does it *sound like*?
+
+Keep this to 2 paragraphs maximum. The point is to engage structural intuition through a non-propositional channel, not to produce literary output. Extract 3-5 structural observations from the metaphors before proceeding.
+
+**Why this works:** The gap between reading the monks and doing determinate negation is where the orchestrator's propositional habits kick in hardest. A non-propositional pause surfaces structural features that analytical reasoning skips — embodied, temporal, spatial, and emotional dimensions of the contradiction that propositional analysis flattens.
+
+## 4.7 Sublation Criteria
 Before attempting synthesis, specify what it must accomplish:
 - It must preserve [specific insight from A]
 - It must preserve [specific insight from B]

@@ -54,12 +54,15 @@ You (Orchestrator)
 │   └── User checkpoint: "Is there evidence or a comparison class both monks missed?"
 ├── Phase 4: Determinate Negation (you — structural analysis, saved to file)
 │   ├── 4.0: Internal tensions — where does each monk's own logic undermine itself?
-│   └── 4.5: Boydian decomposition — shatter, find cross-domain connections
+│   ├── 4.5: Boydian decomposition — shatter, find cross-domain connections
+│   └── 4.6: Lateral creativity (Round 2+ only) — compressed conflicts, random domain, metaphors
 ├── Phase 5: Sublation / Aufhebung (you — synthesis, saved to file)
+│   ├── Provocation + movement (Round 2+ only) — disrupt premature pattern-matching
 │   └── Abduction test: does synthesis make the original contradiction *predictable*?
 ├── Phase 6: Validation (Monks A & B evaluate — were they elevated or defeated?)
 │   ├── Adversarial check: would the hardest-hit monk actually accept this?
 │   ├── Hostile Auditor: fresh agent, strongest model, sole job is to find flaws
+│   ├── Sustained juxtaposition: sometimes refusing to synthesize is the right move
 │   └── Refine: present improvements individually to user, incorporate accepted ones
 └── Phase 7: Recursion — propose 2-4 directions, user chooses (default: at least once)
     ├── Queue unexplored contradictions as the user's orientation library
@@ -90,17 +93,17 @@ Spawn both monks as separate subagent sessions. Check for hedging, degenerate fr
 ### Phase 4: Determinate Negation
 **Read `reference/phase4-determinate-negation.md` before executing.**
 
-You perform this yourself (not a subagent). Analyze internal tensions in each essay, then the surface contradiction, shared assumptions, determinate negation, hidden question, Boydian decomposition, and sublation criteria. Write your initial synthesis guess first — compare at the end to check for pattern-matching.
+You perform this yourself (not a subagent). Analyze internal tensions in each essay, then the surface contradiction, shared assumptions, determinate negation, hidden question, Boydian decomposition, and sublation criteria. Write your initial synthesis guess first — compare at the end to check for pattern-matching. **In Round 2+**, includes lateral creativity interventions: compressed conflict generation (oxymorons), random domain injection via Wikipedia's random article API, and a non-propositional pause (three metaphors).
 
 ### Phase 5: Sublation (Aufhebung)
 **Read `reference/phase5-sublation.md` before executing.**
 
-Generate the synthesis: cancel both positions as complete truths, preserve the genuine insight in each, elevate to a new concept that transforms the question. Apply the abduction test. Check for compromise failure modes. Present to the user before validation.
+Generate the synthesis: cancel both positions as complete truths, preserve the genuine insight in each, elevate to a new concept that transforms the question. Apply the abduction test. Check for compromise failure modes. Present to the user before validation. **In Round 2+**, begins with a De Bono provocation + movement extraction to disrupt premature pattern-matching.
 
 ### Phase 6: Validation by the Electric Monks
 **Read `reference/phase6-validation.md` before executing.**
 
-Send condensed summary to both monks for validation (elevated vs. defeated). Run adversarial check. Deploy the hostile auditor (always in Round 2+, optional in Round 1). Present improvements to user one at a time, not as a list. Revise synthesis before proceeding to recursion.
+Send condensed summary to both monks for validation (elevated vs. defeated). Run adversarial check. Deploy the hostile auditor (always in Round 2+, optional in Round 1). **Sustained juxtaposition** is a legitimate alternative when the contradiction is more productive held open than resolved. Present improvements to user one at a time, not as a list. Revise synthesis before proceeding to recursion.
 
 ### Phase 7: Recursion
 **Read `reference/phase7-recursion.md` before executing.**

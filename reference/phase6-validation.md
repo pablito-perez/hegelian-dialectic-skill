@@ -167,6 +167,18 @@ State findings. Aim for 500-1000 words.
 - If it produces generic skepticism that doesn't engage the domain specifics, **discard it** — a bad auditor critique is worse than none because it wastes the user's attention
 - If the synthesis survives the auditor largely intact, you have high confidence it's genuine
 
+## Sustained Juxtaposition (Alternative to Synthesis)
+
+Sometimes the drive to synthesize is the problem. If the contradiction feels more productive held open than resolved, **say so.** This is a legitimate move — Koestler's third form of bisociation (the aesthetic "Ah") holds two matrices in sustained juxtaposition without fusion, and the juxtaposition itself can reveal features that the rush to resolution obscures.
+
+Signs that sustained juxtaposition may be the right move:
+- The synthesis keeps collapsing into compromise no matter how hard you push
+- The auditor's refusal to accept the synthesis is more illuminating than the synthesis itself
+- The contradiction *is* the insight — naming the tension precisely is more valuable than resolving it prematurely
+- The user recognizes the tension as genuinely generative rather than something to be eliminated
+
+If you choose sustained juxtaposition, **articulate what the juxtaposition reveals.** Don't just say "both are right" — describe what becomes visible *only* when you hold both positions in view simultaneously without resolving them. This is still productive output, and the juxtaposition itself can serve as input to the next recursive round (it has the closure property — a monk can believe "the tension between X and Y is irreducible and here's what that reveals").
+
 ## Interpreting the Results
 
 - **Both monks feel elevated:** The sublation is valid — belief was transformed, not defeated. Both monks now believe something larger that contains their original position. Proceed.
