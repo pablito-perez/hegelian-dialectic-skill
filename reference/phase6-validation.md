@@ -61,6 +61,8 @@ After both agents have responded, ask one additional question — either to the 
 
 This catches syntheses that feel compelling to the orchestrator and to the sympathetic agent but wouldn't survive contact with a genuine advocate for the harder-hit side. In testing, the user caught a synthesis that was intellectually compelling but naive about the actual authority structure through which decisions get made in the relevant institution. This adversarial check would have caught it.
 
+**The ironic failure test (proponent test):** Go further — would the hardest-hit monk say *"you've done exactly the thing I warned against"*? This catches a failure mode the acceptance test misses: analytical capture, where the synthesis enacts the error the dialectic was about. Example: a dialectic about whether wisdom is categorically different from intelligence produced a synthesis that operationalized wisdom as "meta-cognitive method selection" — sophisticated intelligence wearing wisdom's clothes. Schumacher would read that synthesis and say "you've analytically dissolved my Level 4 into Level 3, which is my *entire thesis* about modernity's error." The synthesis didn't just fail to convince the hardest-hit monk — it *proved his point* by demonstrating exactly the reductive move he was warning against. If your synthesis proves the hardest-hit monk's point, return to Phase 5.
+
 ## The Hostile Auditor
 
 After monk validation, spawn a **hostile auditor** — a separate agent whose sole mandate is to find what's wrong with the synthesis. This is not another monk with a position. It has no position. Its job is to be *correct,* not fair.

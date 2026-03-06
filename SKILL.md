@@ -98,12 +98,12 @@ You perform this yourself (not a subagent). Analyze internal tensions in each es
 ### Phase 5: Sublation (Aufhebung)
 **Read `reference/phase5-sublation.md` before executing.**
 
-Generate the synthesis: cancel both positions as complete truths, preserve the genuine insight in each, elevate to a new concept that transforms the question. Apply the abduction test. Check for compromise failure modes. Present to the user before validation. **In Round 2+**, begins with a De Bono provocation + movement extraction to disrupt premature pattern-matching.
+Generate the synthesis: cancel both positions as complete truths, preserve the genuine insight in each, elevate to a new concept that transforms the question. Apply the abduction test. Check for compromise failure modes — including **analytical capture** (adopting one monk's epistemology to reframe the other) and **level reduction** (dissolving a higher-category claim into lower-category terms). Present to the user before validation. **In Round 2+**, begins with a De Bono provocation + movement extraction to disrupt premature pattern-matching.
 
 ### Phase 6: Validation by the Electric Monks
 **Read `reference/phase6-validation.md` before executing.**
 
-Send condensed summary to both monks for validation (elevated vs. defeated). Run adversarial check. Deploy the hostile auditor (always in Round 2+, optional in Round 1). **Sustained juxtaposition** is a legitimate alternative when the contradiction is more productive held open than resolved. Present improvements to user one at a time, not as a list. Revise synthesis before proceeding to recursion.
+Send condensed summary to both monks for validation (elevated vs. defeated). Run adversarial check — including the **proponent test** (would the hardest-hit monk say "you've done exactly the thing I warned against"?). Deploy the hostile auditor (always in Round 2+, optional in Round 1). **Sustained juxtaposition** is a legitimate alternative when the contradiction is more productive held open than resolved. Present improvements to user one at a time, not as a list. Revise synthesis before proceeding to recursion.
 
 ### Phase 7: Recursion
 **Read `reference/phase7-recursion.md` before executing.**
