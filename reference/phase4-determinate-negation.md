@@ -110,3 +110,18 @@ Before attempting synthesis, specify what it must accomplish:
 - It must answer [the hidden question]
 
 **Separating criteria from synthesis is important.** It prevents you from pattern-matching to a pre-formed compromise.
+
+## 4.8 Present the Negation to the User — STOP HERE
+
+**Do NOT proceed to Phase 5 without presenting the full Phase 4 analysis to the user and getting their response.** This is a hard stop, not a suggested checkpoint.
+
+Present the determinate negation, hidden question, lateral material (if Round 2+), Boydian decomposition, and sublation criteria. Then ask:
+
+> Here's my structural analysis of the contradiction. Before I attempt synthesis, I want your judgment on this:
+> - **Did I identify the right hidden question?** Or is the real tension somewhere else?
+> - **Did I miss anything in the decomposition?** New connections, evidence, or angles that should be in the mix before I synthesize?
+> - **Are the sublation criteria right?** What must the synthesis preserve that I haven't listed?
+>
+> This is the highest-leverage correction point — it's much harder to fix the synthesis after I've committed to a direction. Anything you add here shapes everything downstream.
+
+**Why this is a hard stop:** Once the orchestrator begins synthesis, it commits to a direction and builds momentum. Corrections after synthesis feel like "revising" rather than "redirecting" — the orchestrator unconsciously defends its existing work. User interventions at this stage are the most valuable in the entire process: they catch wrong hidden questions, missing dimensions, and analytical capture *before* the orchestrator builds on them. In testing, user corrections at this checkpoint consistently produced stronger syntheses than post-synthesis revision.
