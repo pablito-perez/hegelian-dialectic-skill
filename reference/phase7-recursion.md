@@ -29,7 +29,11 @@ Sources for recursive contradictions:
 
 ## Present a Menu, Not a Decision
 
-After each round, generate a **burst of 5-8 candidate concepts/directions** — not just contradictions but concrete mechanisms, architectural patterns, novel framings, and open vulnerabilities that the synthesis makes newly conceivable. Cast a wide net first: the value is in the *density* of the newly opened conceptual space. Include material from monk defeasibility responses (Phase 6, question 5), auditor output, and your own structural analysis.
+**YOU MUST DO THE IDEA BURST BEFORE PROPOSING DIRECTIONS.** This is the most commonly skipped step in the entire skill, and skipping it visibly degrades the quality of recursive directions. When the orchestrator jumps straight to "here are 2-3 directions," it proposes whatever's most obvious from the synthesis — which is almost always a safe, predictable next step rather than the genuinely fertile contradiction that would produce the best next round. The idea burst is what prevents this.
+
+**Do not skip this step. Do not abbreviate it. Do not combine it with direction-clustering.** Generate the burst first, read it, *then* cluster.
+
+Generate a **burst of 5-8 candidate concepts/directions** — not just contradictions but concrete mechanisms, architectural patterns, novel framings, and open vulnerabilities that the synthesis makes newly conceivable. Cast a wide net first: the value is in the *density* of the newly opened conceptual space. Include material from monk defeasibility responses (Phase 6, question 5), auditor output, and your own structural analysis. The burst should contain ideas that surprise you — if every item is predictable from the synthesis, you're not casting wide enough.
 
 Then **cluster the burst into 2-4 coherent directions**, each briefly described as a contradiction worth exploring. Several candidate concepts often point at the same underlying tension from different angles. For example:
 

@@ -108,7 +108,7 @@ Send condensed summary to both monks for validation (elevated vs. defeated). Run
 ### Phase 7: Recursion
 **Read `reference/phase7-recursion.md` before executing.**
 
-Recursion is the engine of the skill — the first round is calibration. Propose 2-4 directions as a menu. Fresh agents are usually better than resumed sessions. New research is often essential as each synthesis opens new conceptual domains. Default: recurse at least once. Track the dialectic queue in a file.
+Recursion is the engine of the skill — the first round is calibration. **You MUST generate an idea burst (5-8 candidates) before clustering into directions** — do not skip this step, it is what prevents predictable/obvious recursion directions. Then cluster into 2-4 directions as a menu. Fresh agents are usually better than resumed sessions. New research is often essential as each synthesis opens new conceptual domains. Default: recurse at least once. Track the dialectic queue in a file.
 
 ## Belief Burden Catalog
 

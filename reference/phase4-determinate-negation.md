@@ -61,10 +61,16 @@ Generate 5-7 compressed conflicts. Select the 2-3 most resonant ones to guide sy
 
 Inject a domain completely unrelated to the dialectic and **force yourself to find structural isomorphisms** between the core tensions from 4.3-4.4 and that domain.
 
-**Use Wikipedia for genuine randomness.** The orchestrator picking a "random" domain actually filters through the orchestrator's own conceptual habits — you'll gravitate toward domains you already know. Wikipedia's randomness is genuinely external. Fetch 15-20 random articles via the API:
+**Use Wikipedia for genuine randomness.** The orchestrator picking a "random" domain actually filters through the orchestrator's own conceptual habits — you'll gravitate toward domains you already know. Wikipedia's randomness is genuinely external. **Use curl (via bash) to fetch random articles** — WebFetch/fetch tools return 403 errors on Wikipedia. Run this command:
 
 ```bash
 curl -s "https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=50&format=json"
+```
+
+This returns 50 random article titles. To get extracts for promising ones, use curl again:
+
+```bash
+curl -s "https://en.wikipedia.org/w/api.php?action=query&titles=ARTICLE_TITLE&prop=extracts&exintro=true&explaintext=true&format=json"
 ```
 
 Scan the titles and fetch short extracts for the ones that are *maximally distant from the current dialectic's domain* and have enough conceptual density to work with (not stubs). The goal is domain distance — if the dialectic is about software architecture, a biography of a 19th-century nurse or a sports scoring system might be perfect. If the dialectic is about career decisions, condensed matter physics or liturgical history might work. Use your judgment about what's far enough away to force genuine surprise. Typically 5-8 out of 50 will have enough substance — pick the 2-3 richest to force isomorphisms on.
