@@ -66,6 +66,14 @@ Draft what you *expect* the validation responses to look like — this helps che
 
 **If you can't draft convincing versions of these, your sublation probably isn't good enough.** Revise before sending to the agents in Phase 6.
 
+## Reversibility Check (Boyd)
+
+After drafting the synthesis, perform Boyd's verification: **trace each major claim back to specific atomic parts from the Boydian decomposition.** For each claim in the synthesis, you should be able to name which decomposed parts it connects and how. If a claim doesn't trace back — if it appeared from nowhere, sounding right but not grounded in the material — it's either confabulation or a genuine new insight that needs its own evidence. Either way, flag it.
+
+Claims that fail the reversibility check aren't necessarily wrong, but they need scrutiny. Boyd says: don't throw away the whole structure — identify which parts cohere and which don't, then iterate.
+
+**The "not the same arrangement" test:** Boyd is explicit that the synthesis must NOT use the atomic parts "in only those same arrangement" as any original domain. If your synthesis is structurally one monk's position reassembled with the other monk's vocabulary, you haven't created — you've rearranged. This is a different failure from the emergent structure test: emergent structure checks for *new* properties; the same-arrangement test checks that you haven't merely *reconstructed an old domain.* A synthesis that is essentially Monk A's architecture wearing Monk B's terminology will pass the emergent structure test (it has new vocabulary!) but fail the same-arrangement test (the structural relationships are unchanged).
+
 ## New Contradictions
 
 Identify what NEW contradictions this sublation generates. A genuine sublation is fertile, not final. If the synthesis doesn't generate new tensions, it's probably just compromise dressed up.

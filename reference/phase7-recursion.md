@@ -50,13 +50,13 @@ Then **cluster the burst into 2-4 coherent directions**, each briefly described 
 
 ## Running Recursive Rounds
 
-Each recursive cycle follows Boyd's full cycle: the previous synthesis is a Structure that must be Unstructured (shattered by the new contradiction) and Restructured (synthesized with new material). This means recursive rounds often need **new research and fresh agents** — not just rehashing the same material at a higher altitude.
+Each recursive cycle follows Boyd's full cycle: the previous synthesis is a Structure that must be Unstructured (destructive deduction — shatter it into atomic parts, break the correspondence between the concept and its constituents) and Restructured (creative induction — find cross-domain connections to synthesize something new). Boyd proves this isn't just a good idea — the Second Law guarantees that any inward-oriented refinement of the existing synthesis will increase entropy. Recursive rounds often need **new research and fresh agents** because the system must open itself to outside material or face increasing mismatch.
 
-**New research in recursion is often essential.** Each synthesis opens a new conceptual space that the original research didn't cover. In the 7-cycle agent identity dialectic, successive rounds pulled in Gödel's incompleteness theorem, Coasean transaction cost theory, jurisprudential concepts, witness obligation patterns, and N-of-M quorum systems — none of which were in the original research. The synthesis *created the space* for this new material to enter, which is exactly Boyd's prediction: the destructive step liberates parts that can now connect with material from outside the original domains.
+**New research in recursion is often essential.** Boyd's Gödelian argument applies directly: you cannot determine the consistency of a synthesis from within the same conceptual system that produced it — you must appeal to systems outside it. Each synthesis opens a new conceptual space that the original research didn't cover. In the 7-cycle agent identity dialectic, successive rounds pulled in Gödel's incompleteness theorem, Coasean transaction cost theory, jurisprudential concepts, witness obligation patterns, and N-of-M quorum systems — none of which were in the original research. The synthesis *created the space* for this new material to enter: the destructive deduction liberates parts that can now connect with material from outside the original domains, which is exactly Boyd's creative induction in action.
 
 When to research in recursion:
 - The new contradiction involves concepts, mechanisms, or domains that weren't in the original research
-- The Boydian decomposition (Phase 4.5) reveals that adjacent-domain material would enable cross-domain connections
+- The Boydian decomposition (Phase 4.6) reveals that adjacent-domain material would enable cross-domain connections
 - An agent or the user identifies a specific factual or theoretical gap
 
 When research is unnecessary:
@@ -72,6 +72,14 @@ When research is unnecessary:
 - **Use 1000-1500 word essays** — the conceptual space is richer, agents can be tighter
 - **Validation can be abbreviated** — a quick check that both agents feel elevated, or skip if time-constrained
 - Recursive rounds are faster than Round 1 even with research (~2-3 min vs ~20 min) because agents have dense context and need only targeted searches, not broad domain surveys
+
+## Inward-Orientation Check
+
+Boyd proves that any closed system's inward-oriented refinement *necessarily* increases mismatch — the Second Law guarantees it. In the dialectic, this manifests when later rounds start feeling like *polish* rather than *destruction*. If the orchestrator is refining the existing synthesis rather than shattering it against a new contradiction, the system is closing.
+
+**Diagnostic:** Are you importing new material from outside the synthesis's conceptual domain in this round? Or are you rearranging material already in play? If the Boydian decomposition in this round uses only parts already present in the previous synthesis, you're operating inward. The synthesis will feel more polished but will be *less* true — entropy is increasing even though it looks neater.
+
+**This is not always a problem.** Sometimes you're trying to ship something, not endlessly shatter. Refinement rounds have their place — tightening a synthesis before presenting it, resolving ambiguities, making it actionable. The check is a diagnostic, not a prohibition. But if you're refining because you've run out of ideas for what to shatter it against, that's the entropy signal. Either inject new external material (Phase 4.5 lateral interventions) or stop — you've reached the current ceiling.
 
 ## When to Stop
 

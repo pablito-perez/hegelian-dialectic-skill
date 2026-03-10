@@ -128,14 +128,24 @@ Your mandate:
    have proposed this if they were feeling conciliatory? If yes, it's
    not a real sublation.
 
-7. PROPOSE THE HARDER CONTRADICTION. Do not just attack — point toward what
+7. REVERSIBILITY CHECK (from Boyd's "Destruction and Creation"): For each
+   major claim in the synthesis, can you trace it back to specific material
+   in the monks' essays? If a claim appears from nowhere — sounding right
+   but not grounded in either essay's evidence or arguments — flag it as
+   untraceable. Untraceable claims are either confabulation or genuine new
+   insights that need their own evidence. Also check: is the synthesis
+   structurally just one monk's position reassembled with the other's
+   vocabulary? If the structural relationships are unchanged but the words
+   are new, that's rearrangement, not creation.
+
+8. PROPOSE THE HARDER CONTRADICTION. Do not just attack — point toward what
    the synthesis misses. "This resolves the easy tension but the harder
    one is ___." "The synthesis assumes ___ which breaks when ___." Your
    most valuable output is identifying the contradiction the NEXT round
    should tackle. If you can't find one, the synthesis may genuinely be
    strong.
 
-8. CLOSURE CHECK: Could a monk BELIEVE this synthesis at full conviction
+9. CLOSURE CHECK: Could a monk BELIEVE this synthesis at full conviction
    and argue from it as a position? If the synthesis is too abstract, too
    meta, or too hedged to serve as input to the next round, it lacks
    closure and recursion will stall. Flag this specifically.
@@ -192,6 +202,7 @@ If you choose sustained juxtaposition, **articulate what the juxtaposition revea
 - **Hostile auditor finds shared assumptions:** These are frequently the most valuable recursion targets — assumptions the orchestrator was embedded in and couldn't see.
 - **Hostile auditor flags compromise-as-transcendence:** Return to Phase 5. The synthesis needs to change the *question,* not split the difference.
 - **Hostile auditor produces generic skepticism:** Discard it. If the critiques could apply to any proposal in any field, they're not engaging this synthesis. Don't waste the user's attention on them.
+- **Reversibility check finds untraceable claims:** Don't discard the whole synthesis. Boyd's approach is surgical, not demolition: identify which parts of the synthesis cohere and trace back to the decomposition, which parts don't fit, then add new material (from fresh destructive deductions or new research) and iterate. Partial salvage is almost always possible and produces a tighter result than starting over.
 
 ## Refine the Synthesis
 
